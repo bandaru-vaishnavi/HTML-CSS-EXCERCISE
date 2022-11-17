@@ -1,0 +1,103 @@
+body{
+margin:0;
+text-align: center;
+
+}
+h1{
+  margin:0;
+
+}
+.name{
+  font-family: 'Great Vibes', cursive;
+  color:#59C1BD;
+  font-weight: 800;
+  font-size: 80px;
+}
+.div1{
+  background-color: #CDFCF6;
+}
+.img{
+margin-left: 500px;
+margin-top: 100px;
+}
+.img1{
+  margin-bottom: 500px;
+
+}
+.img2{
+  margin-bottom: 200px;
+  margin-right: 50px;
+
+}
+.vais{
+  height:200px;
+  width:200px;
+  border-radius: 200px;
+}
+.a{
+
+  width:150px;
+  float: left;
+  padding-right: 5px;
+
+}
+.b{
+  height:200px;
+  width:200px;
+  float: right;
+  padding-left:5px;
+
+}
+h2,h3
+{
+  font-size: 45px;
+  color:#66BFBF;
+
+
+}
+.contact-me{
+  width:500px;
+  margin:auto;
+}
+p{
+  font-size: 25px;
+}
+.udemy{
+  width:30%;
+  margin:auto;
+  font-weight: 300;
+
+}
+.middle-container{
+  padding: 100px 0;
+}
+
+.skill-row{
+text-align: left;
+margin: auto;
+width: 40%;
+
+}
+.btn{
+  border:1px solid #59C1BD;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #59C1BD;
+  color: white;
+  border-width: thick;
+}
+.bottom-container{
+  color: #59C1BD;
+  background-color: #CDFCF6;
+  margin: 0;
+}
+.footer-link{
+  text-decoration: none;
+  color: #59C1BD;
+    font-size: 25px;
+
+}
+.p{
+  margin-bottom: 0;
+  font-size: 30px;
+}
